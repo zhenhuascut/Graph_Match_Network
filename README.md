@@ -8,10 +8,10 @@ This is an example of the generated graphs.
 
 anchor graph
 
-![Alt text](g1.png?raw=true "g1" =320x240)
+![Alt text](g1.png =320x240)
 
 positive graph:edit distance=1
-![Alt text](g2.png?raw=true "g2" =320x240)
+![Alt text](g2.png =320x240)
 
 negative graph:edit distance=2
-![Alt text](g3.png?raw=true "g3" =320x240)
+![Alt text](g3.png =320x240)
