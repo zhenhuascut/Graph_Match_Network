@@ -12,4 +12,4 @@ This is an example of the generated graphs.
 ![Alt text](g2.png?raw=true "g2")
 
 
-![Alt text](g1.png?raw=true "g3")
+![Alt text](g3.png?raw=true "g3")
