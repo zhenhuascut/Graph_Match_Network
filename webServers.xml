@@ -81,6 +81,11 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="ef71c3f1-fc15-4da4-912d-f11f81811da9" name="dagcn" url="http:///">
+        <fileTransfer host="116.56.140.131" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
