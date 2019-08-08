@@ -26,7 +26,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="fdf089a9-3bfa-4f40-aa0a-82f89723ea22" name="root@110.64.66.193:22 (1)" url="http:///">
+      <webServer id="fdf089a9-3bfa-4f40-aa0a-82f89723ea22" name="root@110.64.66.193:22 powerful-gnns" url="http:///">
         <fileTransfer host="110.64.66.193" port="22" accessType="SFTP">
           <option name="port" value="22" />
         </fileTransfer>
@@ -36,7 +36,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="d0463251-8a74-4ae4-a314-e53890c08b71" name="root@116.56.140.131:22 (1)" url="http:///">
+      <webServer id="d0463251-8a74-4ae4-a314-e53890c08b71" name="root@116.56.140.131:22 powerful-gnns" url="http:///">
         <fileTransfer host="116.56.140.131" port="22" accessType="SFTP">
           <option name="port" value="22" />
         </fileTransfer>
@@ -82,6 +82,11 @@
         </fileTransfer>
       </webServer>
       <webServer id="ef71c3f1-fc15-4da4-912d-f11f81811da9" name="dagcn" url="http:///">
+        <fileTransfer host="116.56.140.131" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="5f0d64de-a706-4cfd-b71c-8734c78cca74" name="131geometric" url="http:///">
         <fileTransfer host="116.56.140.131" port="22" accessType="SFTP">
           <option name="port" value="22" />
         </fileTransfer>
