@@ -96,6 +96,11 @@
           <option name="port" value="8896" />
         </fileTransfer>
       </webServer>
+      <webServer id="02f2d895-9414-4b10-842f-0185b31a7608" name="root@1655cbded4255d69.natapp.cc:8897" url="http:///">
+        <fileTransfer host="1655cbded4255d69.natapp.cc" port="8897" accessType="SFTP">
+          <option name="port" value="8897" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
