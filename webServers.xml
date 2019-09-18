@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="08ea5fe1-abac-4b00-b40f-1d92efb0483c" name="Copy of project-level server '116.56.140.131deephawkes'" url="http://116.56.140.131">
-        <fileTransfer host="116.56.140.131" port="22" rootFolder="/root" accessType="SFTP">
+      <webServer id="08ea5fe1-abac-4b00-b40f-1d92efb0483c" name="'116.56.140.131'HetGNN" url="http://116.56.140.131">
+        <fileTransfer host="116.56.140.131" port="22" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
           </advancedOptions>
