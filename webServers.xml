@@ -75,6 +75,11 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="82c8afc1-ba03-4297-823d-5ab9bc07ee9d" name="DeepRole221" url="http:///">
+        <fileTransfer host="110.64.66.221" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
