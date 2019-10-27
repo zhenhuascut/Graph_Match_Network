@@ -96,6 +96,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="62331197-a8ba-4efe-9de3-be9ba148bdfc" name="131graphwave" url="http://116.56.140.131">
+        <fileTransfer host="116.56.140.131" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
