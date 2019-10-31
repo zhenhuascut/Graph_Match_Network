@@ -120,6 +120,11 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="1f136514-7a3c-4499-8b2d-25c6ffa088c8" name="193Deepcas" url="http:///">
+        <fileTransfer host="110.64.66.193" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
