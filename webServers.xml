@@ -9,7 +9,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="b0eddb1a-997d-4f9c-ba69-4430df72bdb3" name="root@116.56.140.131:22 deepcas" url="http:///">
+      <webServer id="b0eddb1a-997d-4f9c-ba69-4430df72bdb3" name="131deepcas" url="http:///">
         <fileTransfer host="116.56.140.131" port="22" accessType="SFTP">
           <option name="port" value="22" />
         </fileTransfer>
