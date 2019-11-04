@@ -125,6 +125,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="e6d14ad0-42f3-4522-a8d2-a9540112dd59" name="131embedded_IC" url="http://116.56.140.131">
+        <fileTransfer host="116.56.140.131" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
