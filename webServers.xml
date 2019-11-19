@@ -149,6 +149,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="417154c9-032d-4094-9bc1-15ea9850d183" name="131DME" url="http://116.56.140.131">
+        <fileTransfer host="116.56.140.131" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
