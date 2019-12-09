@@ -197,6 +197,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="20b4b878-e79e-49a3-8095-b7aac49cb074" name="131DAGAN" url="http://116.56.140.131">
+        <fileTransfer host="116.56.140.131" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
