@@ -221,6 +221,11 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="521021cb-6bcf-4efa-89f7-0bf205e4b310" name="torch13@116.56.140.131:22" url="http:///">
+        <fileTransfer host="116.56.140.131" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
