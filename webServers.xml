@@ -226,6 +226,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="d1500202-7629-4b8d-ae92-a3789bb7e4af" name="131pytorch_pretrained_BERT" url="http://116.56.140.131">
+        <fileTransfer host="116.56.140.131" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
