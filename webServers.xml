@@ -234,6 +234,16 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="e652a217-31f3-4d78-9dea-696aaf189d26" name="root@193.112.33.102:6000" url="http:///">
+        <fileTransfer host="193.112.33.102" port="6000" accessType="SFTP">
+          <option name="port" value="6000" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="e652a217-31f3-4d78-9dea-696aaf189d26" name="root@193.112.33.102:6000 (1)" url="http:///">
+        <fileTransfer host="193.112.33.102" port="6000" accessType="SFTP">
+          <option name="port" value="6000" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
