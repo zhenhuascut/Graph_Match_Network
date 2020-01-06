@@ -213,7 +213,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="1c68a684-9d76-4428-84e9-4c7ec3ac1bee" name="131transformers" url="http://116.56.140.131">
+      <webServer id="1c68a684-9d76-4428-84e9-4c7ec3ac1bee" name="131torch13transformers" url="http://116.56.140.131">
         <fileTransfer host="116.56.140.131" port="22" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
@@ -242,6 +242,14 @@
       <webServer id="e652a217-31f3-4d78-9dea-696aaf189d26" name="root@193.112.33.102:6000 (1)" url="http:///">
         <fileTransfer host="193.112.33.102" port="6000" accessType="SFTP">
           <option name="port" value="6000" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="775f298c-d53e-4744-bdb9-0f144759cf1e" name="131torch13DeepRAIN" url="http://116.56.140.131">
+        <fileTransfer host="116.56.140.131" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
     </option>
