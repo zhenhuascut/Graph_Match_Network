@@ -292,6 +292,19 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="c3af7f9b-d5cf-4d78-acc9-aef9be06cf26" name="root@193.112.33.102:6001" url="http:///">
+        <fileTransfer host="193.112.33.102" port="6001" accessType="SFTP">
+          <option name="port" value="6001" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="056f60d4-4a41-407c-a411-08d85d352d6b" name="131embedded_IC_outside" url="http://193.112.33.102">
+        <fileTransfer host="193.112.33.102" port="6001" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="6001" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
