@@ -305,6 +305,14 @@
           <option name="port" value="6001" />
         </fileTransfer>
       </webServer>
+      <webServer id="27548e04-8228-4f5e-9f4a-b22bbac3725e" name="bert_classification" url="http://116.56.140.131">
+        <fileTransfer host="116.56.140.131" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
