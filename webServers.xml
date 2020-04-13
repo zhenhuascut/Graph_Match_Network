@@ -329,6 +329,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="2e99ec24-e81b-4cbc-8bad-116ee5da9fe7" name="131CenterShuffle" url="http://116.56.140.131">
+        <fileTransfer host="116.56.140.131" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
