@@ -337,6 +337,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="60b56061-158c-4033-b3d0-f73a2b5ea3b0" name="131BERT-NER-Pytorch-Zac" url="http://116.56.140.131">
+        <fileTransfer host="116.56.140.131" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
