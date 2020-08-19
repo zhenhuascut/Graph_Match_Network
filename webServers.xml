@@ -385,6 +385,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="98203051-78f2-48e3-8819-59254e5bb0d0" name="DeepDyCasRoot" url="http://116.56.140.131">
+        <fileTransfer host="116.56.140.131" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
