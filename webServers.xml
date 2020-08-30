@@ -377,7 +377,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="376013be-e96d-46cf-8791-13a882ceec34" name="DeepDyCas" url="http://116.56.140.131">
+      <webServer id="376013be-e96d-46cf-8791-13a882ceec34" name="DeepDyCasTorch13" url="http://116.56.140.131">
         <fileTransfer host="116.56.140.131" port="22" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
@@ -402,6 +402,11 @@
         </fileTransfer>
       </webServer>
       <webServer id="d81ad0cb-5a62-465b-be23-4cf0fb74f006" name="ta@116.56.140.135:22" url="http:///">
+        <fileTransfer host="116.56.140.135" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="7b11d9ae-9bb5-4f97-9435-d4eca5fcb8f2" name="135DeepDyCas" url="http:///">
         <fileTransfer host="116.56.140.135" port="22" accessType="SFTP">
           <option name="port" value="22" />
         </fileTransfer>
