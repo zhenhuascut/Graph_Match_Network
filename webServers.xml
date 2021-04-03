@@ -442,6 +442,11 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="cf7446da-8967-418e-a5ee-9bdf7d8ffccc" name="135DeepHawkesPy3" url="http:///">
+        <fileTransfer host="116.56.140.135" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
