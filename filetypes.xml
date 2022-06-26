@@ -5,6 +5,8 @@
       <mapping pattern="diffMod_start" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="model" type="PLAIN_TEXT" />
+      <mapping ext="gexf" type="PLAIN_TEXT" />
+      <mapping ext="gml" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
